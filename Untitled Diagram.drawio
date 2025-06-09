@@ -473,17 +473,11 @@
         <mxCell id="i4GRM-xTeoH-Hss7bH1B-275" value="通道列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="4630" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i4GRM-xTeoH-Hss7bH1B-252" value="时间切片" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="470" y="4630" width="88.46800822378668" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i4GRM-xTeoH-Hss7bH1B-253" value="trigge切片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="558.4680082237867" y="4630" width="88.46800822378668" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="i4GRM-xTeoH-Hss7bH1B-254" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470.58" y="4690" width="354.42" height="220" as="geometry" />
+          <mxGeometry x="470.58" y="4630" width="354.42" height="280" as="geometry" />
         </mxCell>
         <mxCell id="i4GRM-xTeoH-Hss7bH1B-269" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="482.1881596591237" y="4720" width="325.8849614340584" height="80" as="geometry" />
+          <mxGeometry x="479.9981596591237" y="4660" width="325.8849614340584" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i4GRM-xTeoH-Hss7bH1B-258" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="i4GRM-xTeoH-Hss7bH1B-269">
           <mxGeometry width="325.8849614340585" height="32.72727272727273" as="geometry" />
@@ -553,46 +547,19 @@
           <mxGeometry x="470.58000000000004" y="4910" width="287.02" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i4GRM-xTeoH-Hss7bH1B-276" value="时间跨度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="582.212635142151" y="4830" width="88.46800822378668" height="60" as="geometry" />
+          <mxGeometry x="691.75" y="4760" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i4GRM-xTeoH-Hss7bH1B-277" value="前x秒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="483.26263514215105" y="4830" width="88.46800822378668" height="60" as="geometry" />
+          <mxGeometry x="622" y="4760" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i4GRM-xTeoH-Hss7bH1B-278" value="后x秒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680.0026351421511" y="4830" width="88.46800822378668" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i4GRM-xTeoH-Hss7bH1B-279" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="4610" width="645" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="i4GRM-xTeoH-Hss7bH1B-280" value="项目配置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="4610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i4GRM-xTeoH-Hss7bH1B-281" value="数据显示" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="4670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i4GRM-xTeoH-Hss7bH1B-282" value="数据管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="4730" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i4GRM-xTeoH-Hss7bH1B-283" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="4630" width="120" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="i4GRM-xTeoH-Hss7bH1B-284" value="通道列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="4630" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="i4GRM-xTeoH-Hss7bH1B-285" value="时间切片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="4630" width="88.46800822378668" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i4GRM-xTeoH-Hss7bH1B-286" value="trigge切片" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1233.4680082237867" y="4630" width="88.46800822378668" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i4GRM-xTeoH-Hss7bH1B-287" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1145.58" y="4690" width="354.42" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="i4GRM-xTeoH-Hss7bH1B-301" value="save" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1145.58" y="4910" width="287.02" height="60" as="geometry" />
+          <mxGeometry x="751.75" y="4760" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i4GRM-xTeoH-Hss7bH1B-305" value="trigger列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1158" y="4700" width="122" height="200" as="geometry" />
+          <mxGeometry x="483" y="4800" width="337" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i4GRM-xTeoH-Hss7bH1B-306" value="切换trigger" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="483" y="4760" width="117" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
